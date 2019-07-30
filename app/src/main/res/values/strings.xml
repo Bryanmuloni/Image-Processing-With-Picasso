@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wired Brain Coffee Company</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="company_one">Wired Brain Coffee Company is a modern solution for all your coffee needs. We\'re hip, and we know it.</string>
+</resources>
